@@ -6,9 +6,12 @@ A complete, self-contained prep system for project management interviews: **100 
 
 Built for general/cross-industry PM roles, including loops that test **PMP/CAPM-style knowledge** — critical path math, earned value formulas, risk analysis, contract types. Behavioral "tell me about a time" questions are deliberately excluded; stakeholder and leadership content is scenario-judgment instead.
 
-## Live site
+---
 
-Deployed via GitHub Pages: open `[project-manager-interview-playbook.html](https://coryjburk.github.io/intv-playbook-proj-mgmt_vc/)` from the published site. No build step, no dependencies, no server — the entire application is one HTML file.
+## Live site
+Deployed via GitHub Pages: [project-manager-interview-playbook.html](https://coryjburk.github.io/intv-playbook-proj-mgmt_vc/) — no build step, no dependencies, no server; the entire application is one HTML file.
+
+---
 
 ## What's inside
 
