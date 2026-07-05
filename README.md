@@ -8,7 +8,7 @@ Built for general/cross-industry PM roles, including loops that test **PMP/CAPM-
 
 ## Live site
 
-Deployed via GitHub Pages: open `project-manager-interview-playbook.html` from the published site. No build step, no dependencies, no server — the entire application is one HTML file.
+Deployed via GitHub Pages: open `[project-manager-interview-playbook.html](https://coryjburk.github.io/intv-playbook-proj-mgmt_vc/)` from the published site. No build step, no dependencies, no server — the entire application is one HTML file.
 
 ## What's inside
 
